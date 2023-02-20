@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimUDuck", "SimUDuck\SimUDuck.csproj", "{5076CED1-EE23-4174-8E6A-B2F33F65C310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherStation", "WeatherStation\WeatherStation.csproj", "{ED438B9E-CF8B-4EA6-894C-89DF98052CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarbuzzCoffee", "StarbuzzCoffee\StarbuzzCoffee.csproj", "{37C7F098-415C-4CAF-97B4-3C9EA007682C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5076CED1-EE23-4174-8E6A-B2F33F65C310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5076CED1-EE23-4174-8E6A-B2F33F65C310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5076CED1-EE23-4174-8E6A-B2F33F65C310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5076CED1-EE23-4174-8E6A-B2F33F65C310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED438B9E-CF8B-4EA6-894C-89DF98052CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED438B9E-CF8B-4EA6-894C-89DF98052CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED438B9E-CF8B-4EA6-894C-89DF98052CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED438B9E-CF8B-4EA6-894C-89DF98052CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C7F098-415C-4CAF-97B4-3C9EA007682C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C7F098-415C-4CAF-97B4-3C9EA007682C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C7F098-415C-4CAF-97B4-3C9EA007682C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C7F098-415C-4CAF-97B4-3C9EA007682C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
